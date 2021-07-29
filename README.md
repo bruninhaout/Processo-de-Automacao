@@ -1,9 +1,9 @@
-# Processo-de-Automacao
-• Processo de automação com python usando pandas.
+# Atomation-process
+• Automation process with python using pandas library.
 
-• Feito na Semana do Python da Hashtag Treinamento.
+• Made in the week of python by hashtag treinamentos.
 
-• Como funciona:
+• How it works:
 
 -- Através da biblioteca 'pandas' se lê um arquivo de excel com os dados necessário, a partir disto utilizamos os dados que serão necessários.
 
