@@ -34,7 +34,7 @@ def enviar_email(nome_da_loja, tabela):
 
     msg['From'] = 'brunagirlpaula2002@gmail.com'  # vm editar
     msg['To'] = 'paulohm2309@gmail.com'  # vm editar
-    password = "20021029bru"  # vm editar
+    password = "senha"  # vm editar
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(corpo_email)
 
